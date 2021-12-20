@@ -1,6 +1,6 @@
 ### Hello!
 
-I am software engineer. As a programmer, I use 99% Java at work. In my free time
+I am a software engineer. As a programmer, I use 99% Java at work. In my free time
 I like to dabble in other languages. I prefer:
 
 - Java, because that's what I know best.
